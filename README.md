@@ -41,7 +41,13 @@ Content:
      
 
 
-5 - Create views to retrieve specific data in response to different requests, and templates to render the data as HTML to be displayed in the browser.
+5 - [Create home page](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page): Create views to retrieve specific data in response to different requests, and templates to render the data as HTML to be displayed in the browser.
+  - [Defining the resource URLs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page#defining_the_resource_urls)
+    - [Creating the index page](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page#creating_the_index_page)
+    - [URL mapping](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page#url_mapping)
+    - [View (function-based)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page#view_function-based)
+    - [Template](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page#template)
+    - 
 
 
 6 - Create mappers to associate different URL patterns with specific views.
