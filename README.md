@@ -47,10 +47,13 @@ Content:
     - [URL mapping](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page#url_mapping)
     - [View (function-based)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page#view_function-based)
     - [Template](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page#template)
-    - 
 
-
-6 - Create mappers to associate different URL patterns with specific views.
+6 - [Generic list and detail views](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Generic_views): To understand where and how to use generic class-based views, and how to extract patterns from URLs and pass the information to views.
+  - [Overview](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Generic_views#overview): Add to the website list and detail pages for books and authors.
+  - [Book list page](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Generic_views#book_list_page):display a list of all the available book records in the page.
+  - [Creating the List View template](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Generic_views#creating_the_list_view_template): Create the HTML file , the default template file expected by the generic class-based list view.
+  - [Book detail page](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Generic_views#book_detail_page)
+  - [Pagination](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Generic_views#pagination): add pagination to your list views, reducing the number of items displayed on each page.
 
 
 7 - Add user authorization and sessions to control site behavior and access.
